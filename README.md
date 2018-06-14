@@ -1,4 +1,4 @@
-# 数据分析师(Python)微专业学习笔记
+# 数据分析师(Python)学习笔记
 ## 带你一起用数据认识世界
 * Python基础语法
 * 核心库：Numpy,Pandas,Matplotlib
