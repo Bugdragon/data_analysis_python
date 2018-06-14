@@ -8,4 +8,4 @@
 * 网易案例
 * 硅谷案例
 
-更网易云课堂微专业：[数据分析师(Python)](http://mooc.study.163.com/smartSpec/detail/1001359001.htm)
+网易云课堂微专业：[数据分析师(Python)](http://mooc.study.163.com/smartSpec/detail/1001359001.htm)
